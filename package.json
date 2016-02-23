@@ -1,0 +1,19 @@
+{
+  "name": "cluster_health",
+  "version": "1.0.0",
+  "description": "this npm package is use to make sure there are specified count process works well.",
+  "main": "cluster.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cluster",
+    "health"
+  ],
+  "author": "zengwei.shao",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "unirest": "^0.4.2"
+  }
+}
